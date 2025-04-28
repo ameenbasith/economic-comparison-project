@@ -127,8 +127,3 @@ economic-comparison-project/
 ## Medium Article
 A detailed Medium article examining these findings and their implications will be published soon. Stay tuned!
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-[Your Name] - [your.email@example.com]
